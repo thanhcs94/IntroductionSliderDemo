@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "Most funny pictures",
+      "image": "img_home_1",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        },
+        {
+          "platform": "iOS",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        }
+      ]
+    },
+    {
+      "name": "Up-to-minute newest pics",
+      "image": "img_home_2",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        }
+      ]
+    },
+    {
+      "name": "Memorize your happy moments",
+      "image": "img_home_3",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        }
+      ]
+    },
+    {
+      "name": "Super cool memes",
+      "image": "img_home_4",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        },
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        }
+      ]
+    },
+    {
+      "name": "Level up your English",
+      "image": "img_home_5",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        },
+        {
+          "platform": "https://play.google.com/store/apps/details?id=com.funstack",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        },
+        {
+          "platform": "iOS",
+          "url": "https://play.google.com/store/apps/details?id=com.funstack"
+        }
+      ]
+    }
+  ]
+}

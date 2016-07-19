@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="TagGroup">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/value_40dp</item>
+        <item name="atg_isAppendMode">false</item>
+        <!--<item name="atg_inputHint">@string/add_tag</item>-->
+        <item name="atg_borderColor">#FFFFFF</item>
+        <item name="atg_textColor">#FFFFFF</item>
+        <item name="atg_backgroundColor">@android:color/transparent</item>
+        <item name="atg_dashBorderColor">#60FFFFFF</item>
+        <item name="atg_inputHintColor">#80000000</item>
+        <item name="atg_inputTextColor">#DE000000</item>
+        <item name="atg_checkedBorderColor">#49C120</item>
+        <item name="atg_checkedTextColor">#FFFFFF</item>
+        <item name="atg_checkedMarkerColor">#FFFFFF</item>
+        <item name="atg_checkedBackgroundColor">#49C120</item>
+        <item name="atg_pressedBackgroundColor">#60FFFFFF</item>
+        <item name="atg_borderStrokeWidth">0.5dp</item>
+        <item name="atg_textSize">13sp</item>
+        <item name="atg_horizontalSpacing">6dp</item>
+        <item name="atg_verticalSpacing">4dp</item>
+        <item name="atg_horizontalPadding">12dp</item>
+        <item name="atg_verticalPadding">3dp</item>
+    </style>
+
+    <style name="TagGroup.Large" parent="TagGroup">
+        <item name="atg_borderStrokeWidth">0.7dp</item>
+        <item name="atg_textSize">15sp</item>
+        <item name="atg_horizontalSpacing">12dp</item>
+        <item name="atg_verticalSpacing">7dp</item>
+        <item name="atg_horizontalPadding">15dp</item>
+        <item name="atg_verticalPadding">7dp</item>
+    </style>
+
+    <style name="TagGroup.Small" parent="TagGroup">
+        <item name="android:layout_height">@dimen/value_30dp</item>
+        <item name="android:layout_marginBottom">@dimen/value_3dp</item>
+        <item name="atg_borderStrokeWidth">0.7dp</item>
+        <item name="atg_textSize">13sp</item>
+        <item name="atg_horizontalSpacing">10dp</item>
+        <item name="atg_verticalSpacing">3dp</item>
+        <item name="atg_horizontalPadding">10dp</item>
+        <item name="atg_verticalPadding">5dp</item>
+        <item name="atg_textColor">@color/client_tag_color</item>
+        <item name="atg_borderColor">@color/client_tag_border_color</item>
+        <item name="atg_pressedBackgroundColor">@color/client_tag_pressed_color</item>
+    </style>
+
+</resources>
