@@ -6,4 +6,4 @@ Try APK file [DOWNLOAD](https://github.com/thanhcs94/IntroductionSliderDemo/blob
 <img height = "500" , src = "https://github.com/thanhcs94/IntroductionSliderDemo/blob/master/giphy.gif"/>
 <br/>
 <img height = "500" , src = "https://github.com/thanhcs94/IntroductionSliderDemo/blob/master/device-2016-07-19-132511.png"/>
-<br/>Visit my [BLOG](https://thanhcs94.xyz)
+<br/>Visit my [BLOG](https://thanhcs.xyz)
